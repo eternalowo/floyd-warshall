@@ -2,11 +2,9 @@
 #define FLOYD_WARSHALL_H_
 
 #include <vector>
-#include <string>
 #include <iostream>
-#include <fstream> 
+#include <fstream>
 #include <string>
-#include <vector>
 
 namespace floyd_warshall {
 
